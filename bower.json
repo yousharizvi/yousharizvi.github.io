@@ -1,0 +1,20 @@
+{
+  "name": "yousharizvi.github.io",
+  "homepage": "https://github.com/yousharizvi/yousharizvi.github.io",
+  "authors": [
+    "Yousha Rizvi <yousharizvi@gmail.com>"
+  ],
+  "description": "My personal blog",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
